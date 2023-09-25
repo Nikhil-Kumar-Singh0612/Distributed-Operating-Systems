@@ -1,0 +1,26 @@
+
+ Average Number of Hops = 0.79   Total Number of Hops = 79    Number Of Nodes = 10    Number Of Requests = 10  
+
+ Average Number of Hops = 1.788   Total Number of Hops = 894    Number Of Nodes = 50    Number Of Requests = 10  
+
+ Average Number of Hops = 2.295   Total Number of Hops = 2295    Number Of Nodes = 100    Number Of Requests = 10  
+
+ Average Number of Hops = 2.691   Total Number of Hops = 5382    Number Of Nodes = 200    Number Of Requests = 10  
+
+ Average Number of Hops = 3.4814   Total Number of Hops = 17407    Number Of Nodes = 500    Number Of Requests = 10  
+
+ Average Number of Hops = 3.9863   Total Number of Hops = 39863    Number Of Nodes = 1000    Number Of Requests = 10  
+
+ Average Number of Hops = 4.46955   Total Number of Hops = 89391    Number Of Nodes = 2000    Number Of Requests = 10  
+
+ Average Number of Hops = 4.772233333333333   Total Number of Hops = 143167    Number Of Nodes = 3000    Number Of Requests = 10  
+
+ Average Number of Hops = 4.9875   Total Number of Hops = 199500    Number Of Nodes = 4000    Number Of Requests = 10  
+
+ Average Number of Hops = 5.16606   Total Number of Hops = 258303    Number Of Nodes = 5000    Number Of Requests = 10  
+
+ Average Number of Hops = 5.394053333333333   Total Number of Hops = 404554    Number Of Nodes = 7500    Number Of Requests = 10  
+
+ Average Number of Hops = 5.5109   Total Number of Hops = 551090    Number Of Nodes = 10000    Number Of Requests = 10  
+
+ Average Number of Hops = 5.96706   Total Number of Hops = 895059    Number Of Nodes = 15000    Number Of Requests = 10  
